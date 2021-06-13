@@ -144,16 +144,16 @@ span {
   color: #ffffff;
   background-color: #2196f3;
 }
-.portfolpo_title{
+.portfolpo_title {
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
   color: #212121;
 }
-.portfolio_text{
-font-weight: 400;
-line-height: 1.87;
-letter-spacing: 0.03em;
-color: #757575;
+.portfolio_text {
+  font-weight: 400;
+  line-height: 1.87;
+  letter-spacing: 0.03em;
+  color: #757575;
 }
